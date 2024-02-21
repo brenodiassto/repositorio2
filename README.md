@@ -49,6 +49,6 @@ A tag `<p>`...representa um parágrafo
 Idiomas      |  Nível
 :----------: | :--------:
 Inglês    |  Intermediário  (B1)
-espanhol  |  Básico
+Espanhol  |  Básico
 
 [Básico]#
